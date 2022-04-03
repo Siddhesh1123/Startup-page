@@ -1,0 +1,43 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-image:url("header.jpg");
+  background-size: cover;
+ background-repeat: no-repeat;
+  align-items: center;
+}
+h1
+{
+  text-align: center;
+  margin: 295px 0px;
+  padding: 40px;
+ color: azure;
+ text-decoration: underline;
+ text-transform: uppercase;
+}
+.btn-secondary
+{
+  background-color:indigo;
+  border-radius: 60px;
+  text-transform: uppercase;
+  border-color: indigo;
+}
+.btn-secondary:hover{
+  background-color:indigo;
+  border-color: indigo;
+border-width: 6px;
+}
+hr {
+  margin: 20px auto;
+  color:  indigo;
+  border:  solid  indigo;
+  max-width: 65px;
+  opacity: 1;  
+}
+section{
+  padding: 40px 20px;
+  margin: 10px 0px;
+
+}
